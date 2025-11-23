@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langserve
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-google-genai
+python-dotenv
